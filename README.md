@@ -1,7 +1,7 @@
-# Phase 3 Code Challenge: Product Reviews
+# Phase 3 Code Challenge: Product Reviews 
 
 For this assignment, we'll be working with an e-commerce domain. We'll be
-focusing on the product reviews.
+focusing on the product reviews..
 
 We have three models: `User`, `Review`, and `Product`.
 
